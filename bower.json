@@ -1,0 +1,31 @@
+{
+  "name": "cache-utils",
+  "version": "1.0.0",
+  "homepage": "https://github.com/SonoIo/cache-utils",
+  "authors": [
+    "Inside a bit"
+  ],
+  "description": "Cache utils for browser",
+  "main": "lib/Cache.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "Backbone",
+    "cache",
+    "utils"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "~2.9.0"
+  }
+}
