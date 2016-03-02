@@ -2,9 +2,6 @@
   "name": "cache-utils",
   "version": "1.0.1",
   "homepage": "https://github.com/SonoIo/cache-utils",
-  "authors": [
-    "Inside a bit"
-  ],
   "description": "Cache utils for browser",
   "main": "lib/Cache.js",
   "moduleType": [
@@ -26,6 +23,6 @@
     "tests"
   ],
   "dependencies": {
-    "moment": "~2.9.0"
+    "moment": "~2.11.2"
   }
 }
