@@ -1,0 +1,34 @@
+{
+  "name": "cache-utils",
+  "version": "1.0.1",
+  "description": "Cache utils for browser",
+  "main": "lib/Cache.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonoIo/cache-utils.git"
+  },
+  "keywords": [
+    "Backbone",
+    "cache",
+    "utils"
+  ],
+  "contributors": [
+    { "name" : "Matteo Baggio", 
+      "email" : "matteo.baggio@gmail.com"
+    },
+    { "name" : "Michele Belluco", 
+      "email" : "michele@belluco.info"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonoIo/cache-utils/issues"
+  },
+  "homepage": "https://github.com/SonoIo/cache-utils#readme",
+  "dependencies": {
+    "moment": "~2.11.2"
+  }
+}
