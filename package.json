@@ -1,6 +1,6 @@
 {
   "name": "cache-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Cache utils for browser",
   "main": "lib/Cache.js",
   "scripts": {
